@@ -1,7 +1,7 @@
 #pragma TextEncoding = "UTF-8"
 #pragma rtGlobals=3		// Use modern global access method and strict wave access.
 
-
+//Temptest code addition here
 Window Adams_Igor_Functions() : Panel
 	PauseUpdate; Silent 1		// building window...
 	NewPanel /W=(790,54,1577,606) as "Adam's Igor Functions"
@@ -24493,4 +24493,5 @@ Function Interp2SP2TimeFrame(wListIdentify_Str,TWave_User)
 	
 	
 	
+
 End
